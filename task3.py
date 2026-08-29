@@ -8,5 +8,5 @@ def is_prime(n):
         a = "True" 
     return(a)    
 b = int(input("Enter a no:"))
-print(is_prime(b))   
+print("Is the no a prime(T/F):",is_prime(b))   
      
