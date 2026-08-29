@@ -15,7 +15,7 @@ print("max of final scores:",final_scores.max())
 print("min of final scores:",final_scores.min())
 print("standard deviation of final scores:",final_scores.std())
 final_scores+=5
-print(final_scores)
+print("Final scores +5:",final_scores)
 less_than_75 = final_scores[final_scores<=75]
 print("Students scoring atleast 75",less_than_75)
 more_than_75 = final_scores[final_scores>=75]
