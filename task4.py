@@ -19,7 +19,7 @@ print("Final scores +5:",final_scores)
 less_than_75 = final_scores[final_scores<=75]
 print("Students scoring atleast 75",less_than_75)
 more_than_75 = final_scores[final_scores>=75]
-print("Students scoring greater than equal to 75",more_than_75)
+print("Students scoring greater than or equal to 75",more_than_75)
 
 
 
