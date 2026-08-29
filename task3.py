@@ -7,6 +7,6 @@ def is_prime(n):
     else:
         a = "True" 
     return(a)    
-b = int(input("Enter a no:"))
-print("Is the no a prime(T/F):",is_prime(b))   
+num_1 = int(input("Enter a no:"))
+print("Is the no a prime(T/F):",is_prime(num_1))   
      
